@@ -129,7 +129,7 @@ export const experiences = [
     iconBg: "#383E56",
     date: "Tooling & Collaboration",
     points: [
-      "Publishing modular utility packages, boilerplates, and developer tools on GitHub (@MohsinAli088).",
+      "Publishing modular utility packages, boilerplates, and developer tools on GitHub (@mohsinmomin440).",
       "Contributing to developer discussions and open-source Discord bot repositories.",
       "Mentoring and sharing knowledge inside the CODEx Development community.",
     ],
@@ -168,7 +168,7 @@ export const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/MohsinAli088/",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
   },
   {
     name: "Kreo Hub",
@@ -189,7 +189,7 @@ export const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/MohsinAli088/",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
   },
   {
     name: "Bot Control",
@@ -210,7 +210,7 @@ export const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/MohsinAli088/",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
   },
   {
     name: "Open Source Lab",
@@ -231,12 +231,12 @@ export const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/MohsinAli088/",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
   },
 ];
 
 export const SOCIAL_LINKS = {
-  github: "https://github.com/MohsinAli088/",
+  github: "https://github.com/mohsinmomin440",
   discord: "https://discord.gg/codexdevs",
-  email: "mohsin.dev.contact@gmail.com",
+  email: "mohsinmomin440@gmail.com",
 };

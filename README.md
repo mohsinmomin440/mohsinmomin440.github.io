@@ -8,11 +8,14 @@
   <p>Discord Bot Developer • Web Developer • Open Source Developer • 3D Creative Engineer</p>
 
   <p>
-    <a href="https://github.com/MohsinAli088"><img src="https://img.shields.io/badge/GitHub-MohsinAli088-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://github.com/mohsinmomin440"><img src="https://img.shields.io/badge/GitHub-mohsinmomin440-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
     <a href="https://discord.gg/codexdevs"><img src="https://img.shields.io/badge/Discord-CODEx%20Devs-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
     <img src="https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js" alt="Three.js" />
     <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  </p>
+  <p>
+    🌐 <strong>Live Demo:</strong> <a href="https://mohsinmomin440.github.io/mohsinali.github.io/">https://mohsinmomin440.github.io/mohsinali.github.io/</a>
   </p>
 </div>
 
