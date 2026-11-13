@@ -150,37 +150,58 @@ export const experiences = [
 
 export const projects = [
   {
-    name: "Sonic Wave",
+    name: "REM-AIO",
     description:
-      "A high-fidelity Discord music bot engineered for zero-latency audio streaming, intelligent queue orchestration, and seamless multi-server playback.",
+      "All-in-one advanced Discord bot built with discord.py 2.x, featuring a custom bot client, dynamic extension loading, asynchronous architecture, and automated server moderation.",
     tags: [
       {
-        name: "discord.js",
+        name: "discord.py",
         color: "blue-text-gradient",
       },
       {
-        name: "nodejs",
+        name: "python",
         color: "green-text-gradient",
       },
       {
-        name: "audio-api",
+        name: "asyncio",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
+    source_code_link: "https://github.com/mohsinmomin440/REM-AIO",
   },
   {
-    name: "Kreo Hub",
+    name: "studymate-ai",
     description:
-      "A modern developer platform unifying bot configurations, project environments, and developer resources within an intuitive, responsive interface.",
+      "AI-Powered Study Planner & Exam Preparation App built with Flutter and Firebase, featuring smart scheduling, task management, progress analytics, and AI-powered learning tools.",
+    tags: [
+      {
+        name: "flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "dart",
+        color: "green-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/mohsinmomin440/studymate-ai",
+  },
+  {
+    name: "finance-tracker",
+    description:
+      "A modern personal finance tracker with expense tracking, monthly budgets, and insightful charts. Built with React, Vite, Tailwind CSS, and an aesthetic glassmorphism UI.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "nextjs",
+        name: "vite",
         color: "green-text-gradient",
       },
       {
@@ -188,50 +209,8 @@ export const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
-  },
-  {
-    name: "Bot Control",
-    description:
-      "An advanced administrative telemetry dashboard providing live server metrics, bot health monitoring, dynamic permission management, and remote command orchestration.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "nodejs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "pink-text-gradient",
-      },
-    ],
     image: tripguide,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
-  },
-  {
-    name: "Open Source Lab",
-    description:
-      "A curated suite of open-source utilities, developer boilerplates, and Discord bot automation tools crafted to accelerate creative engineering workflows.",
-    tags: [
-      {
-        name: "javascript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "threejs",
-        color: "green-text-gradient",
-      },
-      {
-        name: "github",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
+    source_code_link: "https://github.com/mohsinmomin440/finance-tracker",
   },
 ];
 
