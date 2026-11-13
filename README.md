@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </p>
   <p>
-    🌐 <strong>Live Demo:</strong> <a href="https://mohsinmomin440.github.io/mohsinali.github.io/">https://mohsinmomin440.github.io/mohsinali.github.io/</a>
+    🌐 <strong>Live Demo:</strong> <a href="https://mohsinmomin440.github.io/">https://mohsinmomin440.github.io/</a>
   </p>
 </div>
 

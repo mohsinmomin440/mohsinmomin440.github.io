@@ -168,7 +168,7 @@ export const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
   },
   {
     name: "Kreo Hub",
@@ -189,7 +189,7 @@ export const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
   },
   {
     name: "Bot Control",
@@ -210,7 +210,7 @@ export const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
   },
   {
     name: "Open Source Lab",
@@ -231,7 +231,7 @@ export const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/mohsinmomin440/mohsinali.github.io",
+    source_code_link: "https://github.com/mohsinmomin440/mohsinmomin440.github.io",
   },
 ];
 
