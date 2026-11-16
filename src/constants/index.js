@@ -2,9 +2,9 @@ import backend from "../assets/backend-eJbiv30d.png";
 import creator from "../assets/creator-Kxn6XPAS.png";
 import mobile from "../assets/mobile-nsCxKNJ2.png";
 import web from "../assets/web-2Xs7v1YF.png";
-import carrent from "../assets/carrent.webp";
-import jobit from "../assets/jobit.webp";
-import tripguide from "../assets/tripguide.webp";
+import remAioImg from "../assets/rem-aio.webp";
+import studyMateImg from "../assets/studymate-ai.webp";
+import financeTrackerImg from "../assets/finance-tracker.webp";
 
 export const navLinks = [
   {
@@ -167,7 +167,7 @@ export const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: remAioImg,
     source_code_link: "https://github.com/mohsinmomin440/REM-AIO",
   },
   {
@@ -188,7 +188,7 @@ export const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: studyMateImg,
     source_code_link: "https://github.com/mohsinmomin440/studymate-ai",
   },
   {
@@ -209,7 +209,7 @@ export const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: financeTrackerImg,
     source_code_link: "https://github.com/mohsinmomin440/finance-tracker",
   },
 ];
